@@ -32,7 +32,7 @@ Once you have installed Eclipse, open and choose \home\eclipse-workspace as work
 Once all folders have been added, they should be present on the Project Explorer tab where we can explore their subdirectories. 
 
 Subsequently, for each package in the table below we need to do the following:
-* Go to package properties, add the listed packages (found in parentheses in the table below) to the project references and the Projects tab in the java build path
+* Go to package properties, add the listed packages (found in parentheses in the table below) to the project references and to the Classpath subsection found in the Projects tab under the java build path
 * Under the Libraries tab, add all the JAR files(found in the table below). The package they are found in preceeds them in parentheses, all will be found in their packages respective lib folder.
 
 | Package              | Project Build Path / References| Libraries
